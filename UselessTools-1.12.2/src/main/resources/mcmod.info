@@ -1,0 +1,16 @@
+[
+{
+  "modid": "uselesstools",
+  "name": "Useless Tools Mod",
+  "description": "Adds some tools that are probably not usefull lol",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dominic Choi: Creator and Lead Programmer"],
+  "credits": "CarrotBRRR: Lead Programmer, TotallyNZ: Pixel Art, jojk55555: Innovation Consultant",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
