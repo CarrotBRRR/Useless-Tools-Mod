@@ -7,7 +7,7 @@ Adds some funny joke items to Minecraft
 - **jojk55555:** Innovation Consultant
 
 # Changelogs:
-## (Minecraft 1.7.10)[https://github.com/CarrotBRRR/Useless-Tools-Mod/tree/1.12.2]
+## [Minecraft 1.7.10](https://github.com/CarrotBRRR/Useless-Tools-Mod/tree/1.7.10)
 ### v0.1.1
 - Added Diamond Bucket
   - Craft with 3 Diamonds
@@ -17,6 +17,6 @@ Adds some funny joke items to Minecraft
 ### v0.1.2
 - Diamond Bucket can now milk cows
 
-## Minecraft 1.12.2
+## [Minecraft 1.12.2](https://github.com/CarrotBRRR/Useless-Tools-Mod/tree/1.12.2)
 ### v0.1.0
 - 
