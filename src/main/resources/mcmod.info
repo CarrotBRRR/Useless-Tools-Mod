@@ -1,0 +1,16 @@
+[
+{
+  "modid": "UselessTools",
+  "name": "Useless Tools",
+  "description": "Adds some Useless Tools...",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CarrotBRRR"],
+  "credits": "Created by: CarrotBRRR, Pixel Art by: TotallyNZ",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
