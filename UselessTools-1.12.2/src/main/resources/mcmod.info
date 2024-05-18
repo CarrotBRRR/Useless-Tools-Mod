@@ -2,13 +2,13 @@
 {
   "modid": "uselesstools",
   "name": "Useless Tools Mod",
-  "description": "Adds some tools that are probably not usefull lol",
+  "description": "Adds some tools that are probably not useful lol",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Dominic Choi: Creator and Lead Programmer"],
-  "credits": "CarrotBRRR: Lead Programmer, TotallyNZ: Pixel Art, jojk55555: Innovation Consultant",
+  "authorList": ["Dominic Choi"],
+  "credits": "\n - Created by: CarrotBRRR (Dominic Choi)\n - Pixel Art: TotallyNZ\n - Innovation Consultant: jojk55555",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
