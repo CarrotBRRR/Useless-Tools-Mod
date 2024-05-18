@@ -1,0 +1,5 @@
+item.diamond_bucket.name=Diamond Bucket
+item.diamond_bucket_water.name=Diamond Bucket of Water
+item.diamond_bucket_lava.name=Diamond Bucket of Lava
+item.diamond_bucket_milk.name=Diamond Bucket of Milk
+itemGroup.tab_uselesstoolsmod=Useless Tools

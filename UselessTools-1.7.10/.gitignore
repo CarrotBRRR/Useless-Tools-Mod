@@ -1,0 +1,10 @@
+# Project exclude paths
+/.idea/
+/.vscode/
+/eclipse/
+
+/bin/
+/.gradle/
+
+/build/*
+!/build/libs/
