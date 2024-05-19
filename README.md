@@ -19,4 +19,5 @@ Adds some funny joke items to Minecraft
 
 ## [Minecraft 1.12.2](https://github.com/CarrotBRRR/Useless-Tools-Mod/tree/1.12.2)
 ### v0.1.0
-- 
+- Port of 1.7.10-0.1.2
+- This mod will have limited support for 1.7.10
