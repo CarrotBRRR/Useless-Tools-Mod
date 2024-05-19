@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "uselesstools:items/diamond_bucket_milk"
+    }
+}

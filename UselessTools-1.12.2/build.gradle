@@ -13,8 +13,8 @@ apply plugin: 'net.minecraftforge.gradle'
 def mc_version = "1.12.2"
 
 version = "${mc_version}-0.1.0"
-group = 'groupid' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'modid'
+group = 'com.CarrotBRRR.UselessTools' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'UselessTools'
 
 sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 compileJava {
