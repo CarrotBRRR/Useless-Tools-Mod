@@ -22,6 +22,7 @@ public class ModelRegistrationHandler {
         registerModel(ModItems.DIAMOND_BUCKET_MILK, 0);
     }
 
+    @SuppressWarnings("null")
     private static void registerModel(Item item, int meta) {
         ModelLoader.setCustomModelResourceLocation(
             item, 

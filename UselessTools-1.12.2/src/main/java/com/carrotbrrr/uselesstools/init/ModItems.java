@@ -10,4 +10,6 @@ public class ModItems {
     public static final Item DIAMOND_BUCKET_WATER = null;
     public static final Item DIAMOND_BUCKET_LAVA = null;
     public static final Item DIAMOND_BUCKET_MILK = null;
+
+    public static final Item HALF_BED = null;
 }

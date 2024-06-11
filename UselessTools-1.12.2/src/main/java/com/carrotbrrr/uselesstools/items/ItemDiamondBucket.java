@@ -1,4 +1,4 @@
-package com.carrotbrrr.uselesstools.item;
+package com.carrotbrrr.uselesstools.items;
 
 import java.util.List;
 
@@ -40,6 +40,7 @@ public class ItemDiamondBucket extends Item {
         }
     }
 
+    @SuppressWarnings("null")
     @Override
     public ActionResult<ItemStack> onItemRightClick(World world, EntityPlayer player, EnumHand hand) {
         boolean flag = this.containedBlock == Blocks.AIR;

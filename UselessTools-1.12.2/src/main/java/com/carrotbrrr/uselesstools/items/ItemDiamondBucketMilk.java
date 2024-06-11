@@ -1,4 +1,4 @@
-package com.carrotbrrr.uselesstools.item;
+package com.carrotbrrr.uselesstools.items;
 
 import com.carrotbrrr.uselesstools.init.ModItems;
 
@@ -22,6 +22,7 @@ public class ItemDiamondBucketMilk extends Item{
         this.maxStackSize = 1;
     }
 
+    @SuppressWarnings("null")
     public ItemStack onItemUseFinish(ItemStack stack, World world, EntityLivingBase entityLiving){
         if (entityLiving instanceof EntityPlayer){
             ((EntityPlayer)entityLiving).curePotionEffects(new ItemStack(Items.MILK_BUCKET));
@@ -44,16 +45,19 @@ public class ItemDiamondBucketMilk extends Item{
         }
     }
 
+    @SuppressWarnings("null")
     public int getMaxItemUseDuration(ItemStack stack)
     {
         return 32;
     }
     
+    @SuppressWarnings("null")
     public EnumAction getItemUseAction(ItemStack stack)
     {
         return EnumAction.DRINK;
     }
 
+    @SuppressWarnings("null")
     public ActionResult<ItemStack> onItemRightClick(World world, EntityPlayer playerIn, EnumHand handIn)
     {
         playerIn.setActiveHand(handIn);
